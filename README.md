@@ -182,7 +182,8 @@ and verified before making security conclusions.
 
 ---
 
-# harvester.png
+# EVIDENCE 
+![theHarvester Screenshot](images/harvester.png)
 
 The following screenshot provides evidence of the practical execution.
 
