@@ -182,7 +182,7 @@ and verified before making security conclusions.
 
 ---
 
-# 📷 Evidence
+# harvester.png
 
 The following screenshot provides evidence of the practical execution.
 
