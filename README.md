@@ -183,15 +183,13 @@ and verified before making security conclusions.
 ---
 
 # EVIDENCE 
-![theHarvester Screenshot](images/harvester.png)
+
 
 The following screenshot provides evidence of the practical execution.
 
-### theHarvester Terminal Output
+![theHarvester Terminal Output](images/hervester.png)
 
-harvester.png
-
-**Evidence file:** `hervester.png`
+**Evidence file:** `images/hervester.png`
 
 The screenshot shows the terminal execution of theHarvester and the
 information returned during the passive reconnaissance exercise.
