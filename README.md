@@ -14,7 +14,7 @@
 |---|---|
 | **Course** | NetworkWalks Cybersecurity Lab |
 | **Week** | Week 2 |
-| **Task** | Task 1 |
+| **Task** | W2-PM4-Week2 - Project Module4 - Footp with the Harvester v1. |
 | **Activity** | Passive Reconnaissance |
 | **Tool** | theHarvester |
 | **Version** | 4.8.2 |
@@ -188,7 +188,7 @@ The following screenshot provides evidence of the practical execution.
 
 ### theHarvester Terminal Output
 
-![theHarvester Terminal Output](hervester.png)
+harvester.png
 
 **Evidence file:** `hervester.png`
 
