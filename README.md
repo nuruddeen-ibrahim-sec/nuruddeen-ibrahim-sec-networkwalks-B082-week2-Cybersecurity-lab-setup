@@ -188,8 +188,7 @@ The following screenshot provides evidence of the practical execution.
 
 ### theHarvester Terminal Output
 
-<img width="1920" height="1080" alt="theHarvester Terminal Output" src="https://github.com/user-attachments/assets/59116c35-e802-403b-a99c-e415107b0747" />
-**Evidence file:** `images/hervester.png`
+<img width="1920" height="1080" alt="theHarvester Terminal Output" src="images/harvester.png" />
 
 The screenshot shows the terminal execution of theHarvester and the
 information returned during the passive reconnaissance exercise.
